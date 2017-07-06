@@ -1,0 +1,5 @@
+﻿- other uses of 'interface' is mark a class, eg: when a class implements Serializable, a marked
+class is a read/write data object class.
+- 'transient' is mark a class which can not read/write data.
+- 'serializable': serialization process (when read/write objects)
+- data for example with file in 'temp'
