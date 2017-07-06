@@ -3,3 +3,9 @@ class is a read/write data object class.
 - 'transient' is mark a class which can not read/write data.
 - 'serializable': serialization process (when read/write objects)
 - data for example with file in 'temp'
+
+Import library for a project:
+1/ Right click at current project -> Properties
+2/ Projects tab -> Add...
+3/ Choose project which you want to set at library in Select projects to add: -> OK
+4/ Apply -> OK
